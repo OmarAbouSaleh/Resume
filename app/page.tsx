@@ -20,7 +20,7 @@ export default function Home() {
 
         <div className="flex flex-col items-center">
           <Image
-            src="/omar.jpg"
+            src="/omar2.jpg"
             alt="Omar Abou-Saleh"
             width={200}
             height={200}

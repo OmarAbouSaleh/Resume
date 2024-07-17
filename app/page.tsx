@@ -27,7 +27,7 @@ export default function Home() {
             className="rounded-full border-4 border-gray-300 shadow-md"
           />
           <p className="mt-6 text-lg text-gray-700 text-center leading-relaxed">
-            Hi, I'm Omar Abou-Saleh, a student at Southern Alberta Institute of Technology with a passion for programming. I am excited to pursue a software development internship to further my knowledge and skills in the field. Currently proficient in Python and actively learning C#, Java, JavaScript, and TypeScript.
+            Hi, I&apos;m Omar Abou-Saleh, a student at Southern Alberta Institute of Technology with a passion for programming. I am excited to pursue a software development internship to further my knowledge and skills in the field. Currently proficient in Python and actively learning C#, Java, JavaScript, and TypeScript.
           </p>
         </div>
 

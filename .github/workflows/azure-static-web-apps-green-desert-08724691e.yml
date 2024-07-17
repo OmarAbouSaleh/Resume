@@ -36,4 +36,4 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"  # Ensuring the deployment_action is provided
           app_location: "/"
-          output_location: "out"
+          output_location: "Build"

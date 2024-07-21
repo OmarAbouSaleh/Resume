@@ -17,7 +17,7 @@ export default function Navbar() {
           </li>
           <li>
             <Link href="/contact" className="text-white hover:text-gray-400 transition duration-300">
-              Contact
+              Contacts
             </Link>
           </li>
         </ul>
